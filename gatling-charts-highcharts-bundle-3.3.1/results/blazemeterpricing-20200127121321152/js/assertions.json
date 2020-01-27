@@ -1,0 +1,10 @@
+{
+  "simulation": "blazemeter.BlazemeterPricing",
+  "simulationId": "blazemeterpricing",
+  "start": 1580127201152,
+  "description": "",
+  "scenarios": ["BlazemeterPricing"],
+  "assertions": [
+
+  ]
+}
